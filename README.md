@@ -1,2 +1,2 @@
-# CSS-project
+# CSS-Project
 SPOTIFY CLONE
