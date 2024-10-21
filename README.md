@@ -1,2 +1,2 @@
 # CSS-project
-spotify clone
+SPOTIFY CLONE
